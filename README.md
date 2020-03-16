@@ -1,7 +1,7 @@
 <p align="center">
  <img src="https://img.shields.io/badge/Pig-2.6-success.svg" alt="Build Status">
  <img src="https://img.shields.io/badge/Avue-2.3-green.svg" alt="Build Status">
- <img src="https://img.shields.io/badge/Spring%20Cloud-Hoxto.SR1-blue.svg" alt="Coverage Status">
+ <img src="https://img.shields.io/badge/Spring%20Cloud-Hoxto.SR3-blue.svg" alt="Coverage Status">
  <img src="https://img.shields.io/badge/Spring%20Boot-2.2.RELEASE-blue.svg" alt="Downloads">
 </p>
    
@@ -32,12 +32,12 @@
 
 依赖 | 版本
 ---|---
-Spring Boot |  2.2.2.RELEASE  
-Spring Cloud | Hoxton.SR1   
+Spring Boot |  2.2.5.RELEASE  
+Spring Cloud | Hoxton.SR3   
 Spring Security OAuth2 | 2.3.6
-Mybatis Plus | 3.3.0
-hutool | 5.1.0
-Avue | 2.3.5
+Mybatis Plus | 3.3.1
+hutool | 5.2.0
+Avue | 2.3.9
    
 
 
@@ -61,13 +61,15 @@ pig
      └── pig-upms-biz -- 通用用户权限管理系统业务处理模块[4000]
 	 
 ```
-#### 提交反馈
+#### 开源共建
 
-1. 欢迎提交 [issue](https://gitee.com/log4j/pig/issues)，请写清楚遇到问题的原因、开发环境、复显步骤。
+1. 欢迎提交 [pull request](https://gitee.com/log4j/pig/pulls)，注意对应提交对应 `dev` 分支
 
-2. 不接受`功能请求`的 [issue](https://gitee.com/log4j/pig/issues)，功能请求可能会被直接关闭。  
+2. 欢迎提交 [issue](https://gitee.com/log4j/pig/issues)，请写清楚遇到问题的原因、开发环境、复显步骤。
 
-3. mail: <a href="mailto:pig4cloud@qq.com">pig4cloud@qq.com</a> | <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=2270033969&site=qq&menu=yes"> QQ: 2270033969</a>    
+3. 不接受`功能请求`的 [issue](https://gitee.com/log4j/pig/issues)，功能请求可能会被直接关闭。  
+
+4. mail: <a href="mailto:pig4cloud@qq.com">pig4cloud@qq.com</a> | <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=2270033969&site=qq&menu=yes"> QQ: 2270033969</a>    
 
 #### 公开课
 

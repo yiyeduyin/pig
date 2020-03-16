@@ -14,10 +14,12 @@
  * this software without specific prior written permission.
  * Author: lengleng (wangiegie@gmail.com)
  */
+
 package ${package}.${moduleName}.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import ${package}.${moduleName}.entity.${className};
+import org.apache.ibatis.annotations.Mapper;
 
 /**
  * ${comments}
@@ -25,6 +27,7 @@ import ${package}.${moduleName}.entity.${className};
  * @author ${author}
  * @date ${datetime}
  */
+@Mapper
 public interface ${className}Mapper extends BaseMapper<${className}> {
 
 }
